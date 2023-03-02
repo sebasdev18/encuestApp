@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236085309859",
+    "project_id": "encuestas-db-6f6c5",
+    "storage_bucket": "encuestas-db-6f6c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236085309859:android:cf69a7cfcbe2dcc26f2a16",
+        "android_client_info": {
+          "package_name": "com.example.encuestas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236085309859-qq1qj6mapt5b30ie1jafoqi78epb9lj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5RHmjLcbcsZuEejgN-3QcnqeKw4z9gFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236085309859-qq1qj6mapt5b30ie1jafoqi78epb9lj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
